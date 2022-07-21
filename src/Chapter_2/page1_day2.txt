@@ -1,0 +1,10 @@
+it is day two
+keep practising
+
+Git: a version control sysyem
+
+GitHub: A platform to host remote repositories
+
+Local repository: Folder to keep track of changes locally, on each device
+
+Remote repositories: Folder online that keeps track of changes but also can have changes of others
